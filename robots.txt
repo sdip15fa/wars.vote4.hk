@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://wars.vote4.hk/sitemap/sitemap-index.xml
+Host: https://wars.vote4.hk

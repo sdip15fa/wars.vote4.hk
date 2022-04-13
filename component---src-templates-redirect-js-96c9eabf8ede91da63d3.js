@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[30],{GZiI:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),i=a("7t3Y"),c=a("7xaS"),u=a("Wbzz");t.default=function(e){var t=e.pageContext,a=t.uri,n=t.redirectURL;return r.a.useEffect((function(){Object(u.navigate)(n)})),r.a.createElement(c.a,{hideAlerts:!0},r.a.createElement(i.a,{uri:a}))}}}]);
